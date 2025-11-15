@@ -1,4 +1,4 @@
-	package Problem1;
+package Problem1;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
@@ -32,3 +32,4 @@ public class WithExceptionHandling1 {
         input.close();
 	}
 }
+
